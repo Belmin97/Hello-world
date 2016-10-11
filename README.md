@@ -1,2 +1,2 @@
 # Hello-world
-This is my first repstory
+Ovo je moj prvi repozitorij.Git Hub mi je veoma zanimljiv.
